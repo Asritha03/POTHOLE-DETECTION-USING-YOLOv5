@@ -1,2 +1,4 @@
-# POTHOLE-DETECTION-USING-YOLOv5
-Detection of potholes using Deep learning Techniques
+# POTHOLE-DETECTION-USING-YOLOv5 ALGORITHM
+A pothole is a depression on a road surface, usually asphalt pavement. They are formed when groundwater seeps underneath the pavement. When the water freezes underneath, it expands, causing the pavement to swell, bend, and subsequently cracked. Potholes make a ride bumpy and potentially dangerous. They can damage vehicle tires and even affect the alignment of a vehicle’s wheels. Common damage to vehicles inflicted by potholes includes damage to rims, suspension or steering and damage to a car’s exterior. When a vehicle hits a pothole at a high speed, it causes the vehicle to shake the driver loses the control of vehicle and it may lead accidents.
+Our objective is to identify these potholes before any vehicle hits them. We can achieve this by creating a machine learning model which can detect a pothole.
+Further, This model can be integrated into a camera and the camera is placed on the front side of the vehicle. When the model detects a pothole, it gives a buzzer sound to warn the driver about the pothole. The model is trained using deep learning and image processing methods.
